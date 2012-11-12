@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DirectedGraph xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="n1" Background="Yellow"></Node>
+    <Node Id="n2" Background="Red"></Node>
+  </Nodes>
+  <Links>
+    <Link Source="n1" Target="n2"></Link>
+  </Links>
+  <Properties>
+    <Property Id="Background" Label="Background" DataType="Brush" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="hh" Label="ii" ValueType="ll"/>
+  </QualifiedNames>
+  <IdentifierAliases>
+    <Alias Id="ee" n="1" Uri="gg"/>
+  </IdentifierAliases>
+  <Styles>
+    <Style TargetType="Node" GroupLabel="aa" ValueLabel="bb"></Style>
+  </Styles>
+  <Paths>
+    <Path Id="cc" Value="dd"/>
+  </Paths>
+</DirectedGraph>

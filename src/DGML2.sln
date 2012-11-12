@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DGML2", "DGML2\DGML2.csproj", "{C914E8DD-967A-4737-945B-DCBA38EA2998}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DGML2.Test", "DGML2.Test\DGML2.Test.csproj", "{E2E933E0-5EA3-4A6B-B581-5984BC8BC79D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{81EFA3E3-0A35-4E3A-AE18-CD2C028C9D8B}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3F200BC6-AEBF-4532-9289-051F9C393F5C}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C914E8DD-967A-4737-945B-DCBA38EA2998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C914E8DD-967A-4737-945B-DCBA38EA2998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C914E8DD-967A-4737-945B-DCBA38EA2998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C914E8DD-967A-4737-945B-DCBA38EA2998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2E933E0-5EA3-4A6B-B581-5984BC8BC79D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2E933E0-5EA3-4A6B-B581-5984BC8BC79D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2E933E0-5EA3-4A6B-B581-5984BC8BC79D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2E933E0-5EA3-4A6B-B581-5984BC8BC79D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
