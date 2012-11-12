@@ -5,4 +5,4 @@ Command line utility to convert DGML to other graph formats. Currently only basi
 
 ##Usage##
 
-DGML2.exe &lt;path to dgml file&gt;
+DGML2.exe &lt;path to dgml file&gt; [output file]
